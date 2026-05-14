@@ -178,7 +178,17 @@ Overall, the analysis supports the idea that attacking performance is an importa
 
 ---
 
-# 10. AI Usage and Academic Integrity
+## 10. Limitations and Future Work
+
+This project focuses only on attacking players from a single Premier League season.
+
+Future studies may include multiple seasons, defensive statistics, club-level variables, and external factors such as popularity, injuries, transfer history, and international performance.
+
+The machine learning model may also be improved by using larger datasets and more advanced prediction methods.
+
+---
+
+# 11. AI Usage and Academic Integrity
 
 This project was completed in accordance with Sabancı University academic integrity and AI usage guidelines.
 
