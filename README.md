@@ -1,5 +1,8 @@
 # DSA210-PROJECT
 Football market value analysis
+
+Statistical and machine learning analysis of attacking player performance and football market valuation in the 2024/2025 Premier League season.
+
 # Analyzing the Relationship Between Player Performance and Market Value
 
 ## 1. Motivation
