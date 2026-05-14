@@ -125,6 +125,7 @@ Key observation:
 ---
 
 ## Actual vs Predicted Market Value
+![Performance vs Market Value](figures/performance_vs_market_value.png)
 
 The machine learning model predictions were compared with actual market values.
 
