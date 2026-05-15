@@ -126,15 +126,6 @@ Key observation:
 
 ---
 
-## Age vs Market Value
-
-The relationship between age and market value appears relatively weak compared to attacking performance.
-
-Key observation:
-- Younger players occasionally have very high market values, but age alone is not a strong predictor.
-
----
-
 ## Actual vs Predicted Market Value
 
 The machine learning model predictions were compared with actual market values.
