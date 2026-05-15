@@ -114,6 +114,16 @@ A log-log visualization was used to reduce the effect of extreme values and bett
 Key observation:
 - The positive relationship becomes more visible after logarithmic scaling.
 
+- ## Age vs Market Value
+
+![Age vs Market Value](figures/age_vs_market_value.png)
+
+The relationship between age and market value appears relatively weak compared to attacking performance.
+
+Key observation:
+
+- Younger players occasionally have very high market values, but age alone is not a strong predictor.
+
 ---
 
 ## Age vs Market Value
