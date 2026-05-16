@@ -114,7 +114,7 @@ A log-log visualization was used to reduce the effect of extreme values and bett
 Key observation:
 - The positive relationship becomes more visible after logarithmic scaling.
 
-- ## Age vs Market Value
+## Age vs Market Value
 
 ![Age vs Market Value](figures/age_vs_market_value.png)
 
@@ -126,13 +126,27 @@ Key observation:
 
 ---
 
-## Actual vs Predicted Market Value
+### Actual vs Predicted Market Value
 
-The machine learning model predictions were compared with actual market values.
+![Actual vs Predicted Market Value](figures/actual_vs_predicted_market_value.png)
+
+The scatter plot compares actual market values with the values predicted by the machine learning model.
 
 Key observation:
-- The model captures some relationship between statistics and valuation, but player value depends on additional external factors as well.
 
+- The model captures part of the relationship between performance statistics and market value, although prediction errors are still visible.
+
+---
+
+### Feature Importance – Random Forest
+
+![Feature Importance – Random Forest](figures/feature_importance_random_forest.png)
+
+The feature importance graph shows the contribution of each variable in the Random Forest model.
+
+Key observation:
+
+- G+A (Goals + Assists) had the strongest influence on predicted market value among the selected variables.
 ---
 
 # 7. Machine Learning Validation
