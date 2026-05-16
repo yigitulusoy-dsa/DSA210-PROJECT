@@ -207,12 +207,8 @@ The machine learning model may also be improved by using larger datasets and mor
 
 This project was completed in accordance with Sabancı University academic integrity and AI usage guidelines.
 
-AI-based tools (such as ChatGPT) were used only for:
+AI-based tools were used only for:
 - debugging and improving Python code,
 - assistance in report organization and formatting,
 - grammar and writing support,
 - interpreting statistical outputs and visualizations.
-
-All topic selection, research design, data collection, preprocessing, analysis, interpretations, and conclusions were completed independently by the student.
-
-AI tools were used only as supportive assistants and not for generating the core academic content of the project.
