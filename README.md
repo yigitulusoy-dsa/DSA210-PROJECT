@@ -28,13 +28,11 @@ How does player attacking performance affect market value?
 
 ### Hypotheses
 
-**H1:** Higher attacking performance positively affects player market value.
+**H0:** There is no significant relationship between attacking performance (G+A) and player market value.
 
-**H2:** Players with higher goals and assists tend to have higher market values.
+**H1:** Age has a significant relationship with player market value.
 
-**H3:** Age negatively affects player market value.
-
-**H0 (Null):** Performance statistics have no significant relationship with player market value.
+**H2:** Minutes played has a significant relationship with player market value.
 
 ---
 
